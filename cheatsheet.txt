@@ -1,0 +1,12 @@
+## goto-preview @floating-window
+Open lsp definition        | gpd
+Open lsp implementation    | gpi
+Open lsp reference         | gpr
+Close all floating windows | gpc
+
+## telescope @fzf @fuzzy
+Open telescope                  | sf
+Open telescope command_palette  | sc
+
+## lsp_signiture @lsp @diagnostic
+Show lsp_signiture              | <C-k>
